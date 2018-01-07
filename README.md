@@ -17,3 +17,8 @@ http://adventofcode.com/2017
     cat input.txt | ./bin/part1
     go install github.com/yob/advent2017/two/part2
     cat input.txt | ./bin/part2
+
+### Day 3
+
+    go install github.com/yob/advent2017/three/part1
+    ./bin/part1 123
