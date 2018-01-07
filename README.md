@@ -10,3 +10,10 @@ http://adventofcode.com/2017
     ./bin/part1 1122
     go install github.com/yob/advent2017/one/part2
     ./bin/part2 1122
+
+### Day 2
+
+    go install github.com/yob/advent2017/two/part1
+    cat input.txt | ./bin/part1
+    go install github.com/yob/advent2017/two/part2
+    cat input.txt | ./bin/part2
